@@ -4,7 +4,7 @@
 # Roadmap
 - [x] 目前仅包含nvda的数据
 - [ ] 后续也许可以做成API数据实时的调用
-- [ ] 目前实现GPTs包含nvda，后续会包括tsla，amd，qqq，aapl，msft，amzn等热门美股
+- [ ] 后续会包括tsla，amd，qqq，aapl，msft，amzn等热门美股
 
 # sell_covered_call
 algo trading for options including nvda, tsla, amd, qqq, ect.
