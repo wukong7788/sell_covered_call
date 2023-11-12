@@ -4,6 +4,7 @@ algo trading for options including nvda, tsla, amd, qqq, ect.
 
 # 提供GPTs
 https://chat.openai.com/g/g-zwJzTkGb0-sell-call-optimizer
+
 可以利用GPTs，无代码的做数据分析，可视化分析，下图即是通过这个应用获得。
 ![ChatGPT Sell Call Optimizer](https://github.com/wukong7788/sell_covered_call/assets/58027023/031534bf-0a9a-4b88-958e-b30fdf09537d)
 
