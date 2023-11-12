@@ -2,11 +2,10 @@
 这个策略受到老虎社区一个帖子的启发，做了一个python实现，把最后的数据上传到chatgpt，并把数据做成GPTs应用，任何人可以通过对话的方式，对数据进行数据分析。
 
 # Roadmap
-- 
-- 
-&#9744; 目前实现GPTs包含nvda，后续会包括tsla，amd，qqq，aapl，msft，amzn等热门美股
-&#9744; 后续也许可以做成API数据实时的调用
 &#9745; 任务已完成
+- [x] 目前仅包含nvda的数据
+- [ ] 后续也许可以做成API数据实时的调用
+- [ ] 目前实现GPTs包含nvda，后续会包括tsla，amd，qqq，aapl，msft，amzn等热门美股
 
 # sell_covered_call
 algo trading for options including nvda, tsla, amd, qqq, ect.
